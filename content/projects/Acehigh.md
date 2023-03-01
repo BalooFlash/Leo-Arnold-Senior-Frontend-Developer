@@ -2,13 +2,9 @@
 date: '2020-01-10'
 title: '30mins'
 github: ''
-external: 'https://30mins.com/'
-tech:
-  - React
-  - Node
-  - Next
+cover: './asos.png'
+external: 'https://asos.com/'
 company: ''
 showInProjects: true
 ---
 
-Offer Paid Meetings, Host Exclusive Paid Events, Sell Digital Products

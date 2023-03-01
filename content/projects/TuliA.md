@@ -1,15 +1,9 @@
 ---
 date: '2020-01-10'
-title: 'hotwire-golang-website'
+title: 'Thevedicvision'
 github: ''
-external: 'https://github.com/BalooFlash/hotwire-golang-website.git'
-tech:
-  - Golang
-  - Typescript
-  - Makefile
-  - HTML
+cover: './thevedicvision.png'
+external: 'https://thevedicvision.com'
 company: ''
 showInProjects: true
 ---
-
-This project provides some working examples using Go and Hotwire Turbo.

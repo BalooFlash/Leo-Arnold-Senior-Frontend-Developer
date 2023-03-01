@@ -127,7 +127,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Solidity', 'web3', 'JavaScript', 'TypeScript', 'React', 'Angular', 'Vue', 'Node.js', 'MongoDB', 'Java', 'Go', 'Rust', 'Kubernet', 'Python/Django', 'C/C++', 'Cosmos', 'WebAssemble', 'AWS', '.Net', 'Solana'];
+  const skills = ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React', 'Angular', 'Vue', 'Next', 'Node.js', 'Laravel', 'MongoDB', 'PostgreSQL', 'MySQL', 'GraphQL', 'RESTful API', 'GIT', 'Enyzme', 'Jest'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,7 +136,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Highly-skilled and motivated senior JS | TS | Go | Rust developer with 8 years of experience. Enhanced performance of 30 web & blockchain applications. Increased revenue by analyzing and improving app monetization strategies. Seeking to draw on proven software development and engineering skills to build out innovative business model</p>
+            <p>Senior Front-End Developer with 9 years of proven leadership and meaningfully contributions to teams of varying size and scope. With my results-driven mentality, I transformed my team at GitHub by seeking, learning, and teaching new, efficient technologies to make aggressive deadlines consistently achievable. Passionate about going the extra mile to ensure the customer is unquestionably satisfied with the product or service provided. With emphasis on scalable and well-documented code, I look forward to working collaboratively as well as spearheading independent projects at Accenture.</p>
           </div>
 
           <ul className="skills-list">
